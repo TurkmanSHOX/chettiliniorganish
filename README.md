@@ -1,2 +1,2 @@
-# chettiliniorganish
-chet tilini o'rganish
+# video_kurslar
+video kurslar
